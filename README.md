@@ -21,9 +21,13 @@ The five themes it found:
 
 # Theme: What it covers
 Ease of Use: How intuitive the interface is for everyday tasks
+
 Visualization Clarity: How clear and readable the charts and dashboards are
+
 Learnability: How quickly new users can get up to speed; onboarding friction
+
 Efficiency: How fast users can complete tasks once they know the tool
+
 User Satisfaction: Overall positive experience, comfort, and confidence
 
 # Step 1b — Classification: 
