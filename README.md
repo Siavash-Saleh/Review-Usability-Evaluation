@@ -6,7 +6,7 @@ The idea is simple. Collect real user reviews from Capterra, use GPT-4o to figur
 How it works
 The pipeline runs in three stages, one notebook per stage.
 
-While this project was built to compare BI tools specifically, the pipeline itself is not tied to that domain at all. The same approach — scrape reviews, discover usability themes inductively, score each review through its specific theme. It can be applied to evaluate any software product that has a body of user reviews online. CRM platforms, project management tools, IDE plugins, and mobile apps. If there are enough reviews on a platform like Capterra, G2, or the App Store, this pipeline can turn them into a structured usability profile. The only thing that would change is the input URLs.
+While this project was built to compare BI tools specifically, the pipeline itself is not tied to that domain at all. The same approach,  scrape reviews, discover usability themes inductively, score each review through its specific theme. It can be applied to evaluate any software product that has a body of user reviews online. CRM platforms, project management tools, IDE plugins, and mobile apps. If there are enough reviews on a platform like Capterra, G2, or the App Store, this pipeline can turn them into a structured usability profile. The only thing that would change is the input URLs.
 
 # Stage 0 — Scraping (Capterra_scraper.ipynb)
 Reviews are collected using Selenium and BeautifulSoup from Capterra's review pages. The scraper iterates page by page and pulls five fields per review: date, title, full text, reviewer role, and reviewer industry.
