@@ -1,4 +1,3 @@
-<img width="1080" height="1080" alt="204-2048349_tableau-logo-tableau-logo-png-transparent-png" src="https://github.com/user-attachments/assets/21da6c7c-f3f8-4933-8370-a2baf8faba97" />
 
 # Tools-Review-Usability-Evaluation
 LLM-based (GPT) usability evaluation of Power BI, Tableau, and Looker Studio using GPT-4o sentiment analysis on 880 Capterra reviews.
